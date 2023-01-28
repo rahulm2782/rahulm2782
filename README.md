@@ -1,5 +1,5 @@
 # 🚀 Welcome to my GitHub repository! 
-### My name is Rahul Mahesh Mayekar and I am a Data Science Intern.
+### My name is Rahul Mayekar and I am a Data Science Intern.
 
 📂 In this repository, you will find a collection of projects that I have worked on during my internship. My main areas of expertise include big data analytics 📊, Hadoop 🐝, Pig 🐷, Hive 🐝, Sqoop 🚪, MySQL 💾, Spark 🔥, PySpark 🐍, AWS 🌩, statistics 📊, Python 🐍, NumPy 📚, Pandas 🐼, Matplotlib 📈, Seaborn 🌊, AI/ML/DL 🤖, MS Excel 📊, Tableau 📊, Power BI 📊.
 
