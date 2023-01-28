@@ -23,3 +23,8 @@ Deep Learning Projects:
 💬 If you have any questions or need further information about any of the projects, feel free to reach out to me by creating an issue in the repository 💬 or by sending me an email 📧.
 
 🙏 Thank you for visiting my GitHub repository!
+
+Linkedin_id = [Rahul Mayekar](https://www.linkedin.com/in/rahul-mayekar-028459171/)
+
+
+
