@@ -5,14 +5,18 @@
 
 Machine Learning Projects:
 
-1. [Diamond price prediction](https://github.com/rahulm2782/ML_projects/tree/main/Diamond_price_prediction)
+1. [Diamond price prediction 💎](https://github.com/rahulm2782/ML_projects/tree/main/Diamond_price_prediction)
 2. [Fake news prediction](https://github.com/rahulm2782/ML_projects/tree/main/fake_news_prediction)
 3. [Breast cancer identification](https://github.com/rahulm2782/ML_projects/tree/main/Breast_cancer_data)
 
+Machine learning web apps:
+1. [Multi disease prediction 🤕](https://github.com/rahulm2782/public_ml_multi-diesease_predict)
+2. [Wine quality prediction 🍷](https://github.com/rahulm2782/Quality_of_wine_prediction)
+
 Deep Learning Projects:
 1. [Face Mask Identification](https://github.com/rahulm2782/DL_projects/blob/main/Mask_detection/mask-vs-no-mask.ipynb)
-2. [Number Plate Detection](https://github.com/rahulm2782/DL_projects/blob/main/Number_plate_detection/Number_plate_detection.ipynb)
-3. [Cotton Disease indentification](https://github.com/rahulm2782/DL_projects/blob/main/Cotton_disease_prediction/cotton_disease_predict.ipynb)
+2. [Number Plate Detection 🚗](https://github.com/rahulm2782/DL_projects/blob/main/Number_plate_detection/Number_plate_detection.ipynb)
+3. [Cotton Disease identification 🌱](https://github.com/rahulm2782/DL_projects/blob/main/Cotton_disease_prediction/cotton_disease_predict.ipynb)
 
 🧭 To navigate through the projects, you can use the above links. Each project has its own folder 📂, and inside you will find the relevant files and information for that project. Each project also has a README file 📝 which you can open to get a brief overview of the project, the technologies used and its functionality.
 
