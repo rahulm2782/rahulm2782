@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm RAHUL MAYEKAR</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulm2782&label=Profile%20views&color=0e75b6&style=flat" alt="rahulm2782" /> </p>
+🚀 Welcome to my GitHub repository! My name is Rahul Mahesh Mayekar and I am a Data Science Intern.
 
-<p align="left"> <a href="https://twitter.com/rahulmahesh5" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmahesh5?logo=twitter&style=for-the-badge" alt="rahulmahesh5" /></a> </p>
+📂 In this repository, you will find a collection of projects that I have worked on during my internship. My main areas of expertise include big data analytics 📊, Hadoop 🐝, Pig 🐷, Hive 🐝, Sqoop 🚪, MySQL 💾, Spark 🔥, PySpark 🐍, AWS 🌩, statistics 📊, Python 🐍, NumPy 📚, Pandas 🐼, Matplotlib 📈, Seaborn 🌊, AI/ML/DL 🤖, MS Excel 📊, Tableau 📊, Power BI 📊.
 
-- 🌱 I’m currently learning **Apache spark,AWS,Tableau and Power BI**
+Machine Learning Projects:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahulmahesh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmahesh5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-mayekar-028459171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mayekar-028459171/" height="30" width="40" /></a>
-<a href="https://kaggle.com/rahulmahesh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahulmahesh5" height="30" width="40" /></a>
-</p>
+1. [Diamond price prediction](https://github.com/rahulm2782/ML_projects/tree/main/Diamond_price_prediction)
+2. [Fake news prediction](https://github.com/rahulm2782/ML_projects/tree/main/fake_news_prediction)
+3. [Breast cancer identification](https://github.com/rahulm2782/ML_projects/tree/main/Breast_cancer_data)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Deep Learning Projects:
+1. [Face Mask Identification](https://github.com/rahulm2782/DL_projects/blob/main/Mask_detection/mask-vs-no-mask.ipynb)
+2. [Number Plate Detection](https://github.com/rahulm2782/DL_projects/blob/main/Number_plate_detection/Number_plate_detection.ipynb)
+3. [Cotton Disease indentification](https://github.com/rahulm2782/DL_projects/blob/main/Cotton_disease_prediction/cotton_disease_predict.ipynb)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulm2782&show_icons=true&locale=en&layout=compact" alt="rahulm2782" /></p>
+🧭 To navigate through the projects, you can use the above links. Each project has its own folder 📂, and inside you will find the relevant files and information for that project. Each project also has a README file 📝 which you can open to get a brief overview of the project, the technologies used and its functionality.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulm2782&" alt="rahulm2782" /></p>
+💻 I have hands-on experience in working with big data technologies like Hadoop 🐝, Pig 🐷, Hive 🐝, and Sqoop 🚪, and have a strong understanding of data warehousing and ETL processes. I have also worked with various data visualization tools like Tableau 📊, Power BI 📊, and have experience in working with machine learning libraries like Scikit-learn 🤖, TensorFlow 🔥, and Keras 🤖.
+
+🌩 I have experience in working with cloud platforms like AWS 🌩, and have hands-on experience in working with Spark 🔥, PySpark 🐍 and SQL 💾. I have also worked with Python libraries like NumPy 📚, Pandas 🐼, Matplotlib 📈, and Seaborn 🌊.
+
+💬 If you have any questions or need further information about any of the projects, feel free to reach out to me by creating an issue in the repository 💬 or by sending me an email 📧.
+
+🙏 Thank you for visiting my GitHub repository!
