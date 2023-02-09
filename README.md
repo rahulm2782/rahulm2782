@@ -1,34 +1,20 @@
-# 🚀 Welcome to my GitHub repository! 
-### My name is Rahul Mayekar and I am a Data Science Intern.
+<h1 align="center">Hi 👋, I'm Rahul Mayekar</h1>
+<h3 align="center">Highly motivated and enthusiastic data science intern with strong analytical and technical skills, adept at collecting, cleaning, and transforming large datasets, utilizing statistical methods to uncover insights, and presenting data-driven solutions to support business decisions</h3>
 
-📂 In this repository, you will find a collection of projects that I have worked on during my internship. My main areas of expertise include big data analytics 📊, Hadoop 🐝, Pig 🐷, Hive 🐝, Sqoop 🚪, MySQL 💾, Spark 🔥, PySpark 🐍, AWS 🌩, statistics 📊, Python 🐍, NumPy 📚, Pandas 🐼, Matplotlib 📈, Seaborn 🌊, AI/ML/DL 🤖, MS Excel 📊, Tableau 📊, Power BI 📊.
+- 🌱 I’m currently learning **pyspark, AWS, PowerBI**
 
-Machine Learning Projects:
+- 👨‍💻 All of my projects are available at [Data-science-projects](https://github.com/rahulm2782/Data-science-projects)
 
-1. [Diamond price prediction 💎](https://github.com/rahulm2782/ML_projects/tree/main/Diamond_price_prediction)
-2. [Fake news prediction](https://github.com/rahulm2782/ML_projects/tree/main/fake_news_prediction)
-3. [Breast cancer identification](https://github.com/rahulm2782/ML_projects/tree/main/Breast_cancer_data)
+- 💬 Ask me about **Python, OOPS, Machine learning - Deep Learning Algorithms and Libraries, Tableau Dashboards**
 
-Machine learning web apps:
-1. [Multi disease prediction 🤕](https://github.com/rahulm2782/public_ml_multi-diesease_predict)
-2. [Wine quality prediction 🍷](https://github.com/rahulm2782/Quality_of_wine_prediction)
+- 📫 How to reach me **rahulmayekar936@gmail.com**
 
-Deep Learning Projects:
-1. [Face Mask Identification](https://github.com/rahulm2782/DL_projects/blob/main/Mask_detection/mask-vs-no-mask.ipynb)
-2. [Number Plate Detection 🚗](https://github.com/rahulm2782/DL_projects/blob/main/Number_plate_detection/Number_plate_detection.ipynb)
-3. [Cotton Disease identification 🌱](https://github.com/rahulm2782/DL_projects/blob/main/Cotton_disease_prediction/cotton_disease_predict.ipynb)
+- 📄 Know about my experiences, [Resume](https://drive.google.com/file/d/1BdaFB7_ffaVAJ95By8Do2HldXVADkQMI/view?usp=share_link)
 
-🧭 To navigate through the projects, you can use the above links. Each project has its own folder 📂, and inside you will find the relevant files and information for that project. Each project also has a README file 📝 which you can open to get a brief overview of the project, the technologies used and its functionality.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul" height="30" width="40" /></a>
+</p>
 
-💻 I have hands-on experience in working with big data technologies like Hadoop 🐝, Pig 🐷, Hive 🐝, and Sqoop 🚪, and have a strong understanding of data warehousing and ETL processes. I have also worked with various data visualization tools like Tableau 📊, Power BI 📊, and have experience in working with machine learning libraries like Scikit-learn 🤖, TensorFlow 🔥, and Keras 🤖.
-
-🌩 I have experience in working with cloud platforms like AWS 🌩, and have hands-on experience in working with Spark 🔥, PySpark 🐍 and SQL 💾. I have also worked with Python libraries like NumPy 📚, Pandas 🐼, Matplotlib 📈, and Seaborn 🌊.
-
-💬 If you have any questions or need further information about any of the projects, feel free to reach out to me by creating an issue in the repository 💬 or by sending me an email 📧.
-
-🙏 Thank you for visiting my GitHub repository!
-
-Linkedin_id = [Rahul Mayekar](https://www.linkedin.com/in/rahul-mayekar-028459171/)
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
