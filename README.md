@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Data-science-projects](https://github.com/rahulm2782/Data-science-projects)
 
-- 💬 Ask me about **Python, OOPS, Machine learning - Deep Learning Algorithms and Libraries, Tableau Dashboards**
+- 💬 Ask me about **Python, OOPS, Machine learning - Deep Learning Algorithms and Libraries, Tableau Dashboards, Computer vison, NLP**
 
 - 📫 How to reach me **rahulmayekar936@gmail.com**
 
